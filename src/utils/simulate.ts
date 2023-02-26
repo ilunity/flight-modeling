@@ -1,5 +1,4 @@
-import { ChartData, ChartPointData } from "../components/FlightChart/FlightChart.types";
-import { FlightStats } from "../components/FlightSimulator/reducer";
+import { ChartData, ChartPointData, FlightStats } from "../components/FlightChart/FlightChart.types";
 
 export interface FlightState {
   x: number,

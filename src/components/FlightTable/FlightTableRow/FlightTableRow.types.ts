@@ -1,4 +1,4 @@
-import { FlightStats } from "../../FlightSimulator/reducer";
+import { FlightStats } from "../../FlightChart/FlightChart.types";
 
 export interface FlightTableRowProps {
   chartIndex: number;
